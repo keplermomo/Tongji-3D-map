@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{ce958114-5dd1-4dcb-8d74-b6c551f1b457}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="objects">
+      <UniqueIdentifier>{5ac4e7e0-c860-4111-8c83-49a68e65da98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures">
+      <UniqueIdentifier>{b58a9ff5-80bf-43c2-97fa-47c4b76cfb2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures\SkyBox">
+      <UniqueIdentifier>{3206549a-239f-4fe7-81b3-aed3df28316c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Packages\src\glad.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Packages\src\main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Packages\src\stb_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Packages\src\wall.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Packages\src\graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Shaders\skybox.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\skybox.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\model_loading.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\model_loading.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\model_ground.vs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\model_ground.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\lineSeg.fs">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="..\Shaders\lineSeg.vs">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Packages\include\camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\shader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\model.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\wall.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\glad\glad.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Packages\include\graph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Textures\SkyBox\Background_Backward.jpg">
+      <Filter>Textures\SkyBox</Filter>
+    </Image>
+    <Image Include="..\Textures\SkyBox\Background_Forward.jpg">
+      <Filter>Textures\SkyBox</Filter>
+    </Image>
+    <Image Include="..\Textures\SkyBox\Background_Ground.jpg">
+      <Filter>Textures\SkyBox</Filter>
+    </Image>
+    <Image Include="..\Textures\SkyBox\Background_Left.jpg">
+      <Filter>Textures\SkyBox</Filter>
+    </Image>
+    <Image Include="..\Textures\SkyBox\Background_Right.jpg">
+      <Filter>Textures\SkyBox</Filter>
+    </Image>
+    <Image Include="..\Textures\SkyBox\Background_Sky.jpg">
+      <Filter>Textures\SkyBox</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

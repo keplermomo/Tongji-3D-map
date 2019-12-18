@@ -1,0 +1,67 @@
+﻿  main.cpp
+d:\four\mapping\packages\include\camera.h(100): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(105): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(115): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(121): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(127): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(132): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(139): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\camera.h(144): warning C4305: “参数”: 从“double”到“float”截断
+d:\four\mapping\packages\include\graph.h(207): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\four\mapping\packages\include\graph.h(217): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\four\mapping\packages\include\graph.h(247): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\four\mapping\packages\include\graph.h(267): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\four\mapping\packages\include\graph.h(277): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+d:\four\mapping\packages\src\main.cpp(35): warning C4305: “初始化”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(243): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(733): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(740): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(741): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(745): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(746): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(748): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(749): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\four\mapping\packages\src\main.cpp(929): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(934): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(938): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(943): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(949): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(953): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(959): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(974): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(979): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(984): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(989): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(994): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(999): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1003): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1008): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1013): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1018): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1023): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1028): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1033): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1034): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1038): warning C4305: “=”: 从“double”到“float”截断
+d:\four\mapping\packages\src\main.cpp(1039): warning C4305: “=”: 从“double”到“float”截断
+LINK : warning LNK4098: 默认库“MSVCRTD”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  1 of 1043 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(context.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(init.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(input.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(monitor.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(vulkan.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(window.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_init.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_joystick.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_monitor.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_time.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_tls.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_tls.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(win32_window.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(wgl_context.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“glfw.pdb”(使用“glfw3.lib(egl_context.obj)”或在“D:\four\Mapping\Release\glfw.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Mapping.vcxproj -> D:\four\Mapping\Release\Mapping.exe

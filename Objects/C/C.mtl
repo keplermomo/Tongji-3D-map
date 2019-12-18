@@ -1,0 +1,17 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Translucent_Glass_Safety
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.921569 0.956863
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+map_Kd C/Translucent_Glass_Safety.jpg
+
+newmtl Cladding_Stucco_White
+Ka 0.000000 0.000000 0.000000
+Kd 0.784314 0.784314 0.784314
+Ks 0.330000 0.330000 0.330000
+map_Kd C/Cladding_Stucco_White.jpg
+

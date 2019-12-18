@@ -1,0 +1,22 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl BuildB_simplified_DefaultMaterial
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.600000 0.600000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _52
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.219608
+Ks 0.330000 0.330000 0.330000
+map_Kd D/_52.jpg
+
+newmtl Translucent_Glass_Safety
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.921569 0.956863
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+map_Kd D/Translucent_Glass_Safety.jpg
+
